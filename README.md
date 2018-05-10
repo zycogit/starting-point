@@ -1,2 +1,2 @@
 # starting-point
-test
+a repository for github-learning
